@@ -1,6 +1,6 @@
 # Minimal DFA :books:
 
-*Automata theory course
+*Automata theory course*
 
 ## Python
 
